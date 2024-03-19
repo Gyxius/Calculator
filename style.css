@@ -18,7 +18,8 @@ body {
 #output {
     margin-right: 20px;
     color: white;
-    font-size: x-large;
+    font-size: 50px;
+    font-weight: bold;
 }
 
 #main-rectangle {
@@ -27,7 +28,7 @@ body {
     width: 551px;
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 2px;
     align-items: center;
     justify-content: center;
     
@@ -37,7 +38,7 @@ button {
     background-color: #D9D9D9;
     height: 72px;
     width: 104px;
-    margin: 10px;
+    margin: 5px;
     font-size: x-large;
     font-weight: bold;
 }
